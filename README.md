@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     subgraph Control Plane
         A[API Server]
@@ -30,3 +31,4 @@ graph TD
     K1 -- Manages --> Pod2
     K2 -- Manages --> Pod3
     K2 -- Manages --> Pod4
+```
